@@ -8,15 +8,15 @@ with open('input.txt') as f:
 counter = 0
 
 ### part 1
-''' 
-for index, value in enumerate(wejscie):
-    if index is 0:
-        continue
-    else:
-        if(int(wejscie[index]) > int(wejscie[index - 1])):
-            counter += 1
 
-'''
+# for index, value in enumerate(wejscie):
+#     if index is 0:
+#         continue
+#     else:
+#         if(int(wejscie[index]) > int(wejscie[index - 1])):
+#             counter += 1
+
+
 
 ### part 2
 i = 0
